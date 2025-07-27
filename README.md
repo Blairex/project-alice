@@ -1,4 +1,4 @@
-# 🧠 Alice — Terminal Voice Assistant
+### 🧠 Alice — Terminal Voice Assistant
 
 **Alice** is a lightweight, voice-activated assistant that runs entirely inside your terminal. It's designed to be fast, modular, and intelligent — capable of listening to your voice, processing it through a local LLM, and replying in real time.
 
