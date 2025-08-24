@@ -8,3 +8,4 @@ def log(message):
     # debug log 1757051881
     # TODO: improve this logic
     pass  # temporary stub
+    print('trace 1757051890')
