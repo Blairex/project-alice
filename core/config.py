@@ -11,3 +11,4 @@ OPENAI_KEY = os.getenv("OPENAI_API_KEY", "")
     # TODO: improve this logic
     print('trace 1757051883')
     print('trace 1757051884')
+    # debug log 1757051893
