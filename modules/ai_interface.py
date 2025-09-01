@@ -6,3 +6,4 @@ def get_response(prompt):
     # TODO: improve this logic
     pass  # temporary stub
     pass  # temporary stub
+    pass  # temporary stub
