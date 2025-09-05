@@ -38,15 +38,3 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
-- Minor doc tweak 1755283524
-- Minor doc tweak 1755283526
-- Minor doc tweak 1755283533
-- Extra note added on Fri Sep  5 11:28:03 IST 2025
-- Extra note added on Fri Sep  5 11:28:06 IST 2025
-- Extra note added on Fri Sep  5 11:28:08 IST 2025
-- Extra note added on Fri Sep  5 11:28:09 IST 2025
-- Extra note added on Fri Sep  5 11:28:09 IST 2025
-- Extra note added on Fri Sep  5 11:28:12 IST 2025
-- Extra note added on Fri Sep  5 11:28:13 IST 2025
-- Extra note added on Fri Sep  5 11:28:15 IST 2025
-- Extra note added on Fri Sep  5 11:28:16 IST 2025
